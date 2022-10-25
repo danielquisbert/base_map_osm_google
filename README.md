@@ -2,7 +2,7 @@
 
 ## Capturas
 
-|[<img src="https://raw.githubusercontent.com/danielquisbert/base_map_osm_google/main/images/google.png" width="150" />](https://github.com/danielquisbert/base_map_osm_google)|[<img src="https://raw.githubusercontent.com/danielquisbert/base_map_osm_google/main/images/osm.png" width="150" />](https://github.com/danielquisbert/base_map_osm_google)|
+[<img src="https://raw.githubusercontent.com/danielquisbert/base_map_osm_google/main/images/google.png" width="300" />](https://raw.githubusercontent.com/danielquisbert/base_map_osm_google/main/images/google.png) [<img src="https://raw.githubusercontent.com/danielquisbert/base_map_osm_google/main/images/osm.png" width="300" />](https://raw.githubusercontent.com/danielquisbert/base_map_osm_google/main/images/osm.png)
 
 
 
