@@ -1,8 +1,15 @@
-## Base Map Osm Google
+# Base Map Osm Google
+
+## Capturas
+
+|[<img src="https://raw.githubusercontent.com/danielquisbert/base_map_osm_google/main/images/google.png" width="150" />](https://github.com/danielquisbert/base_map_osm_google)|[<img src="https://raw.githubusercontent.com/danielquisbert/base_map_osm_google/main/images/osm.png" width="150" />](https://github.com/danielquisbert/base_map_osm_google)|
+
+
+
 
 ## Forma de uso
 
-Crear un nuevo proyecto 
+Crear un nuevo proyecto y agregar el package
 
 ```dart
 import 'package:base_map_osm_google/base_map_osm_google.dart';

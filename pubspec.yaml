@@ -1,7 +1,7 @@
 name: base_map_osm_google
 description: Permite crear un mapa base de OpenStreetMap o Google, además poder insertar capas adicionales y otras configuraciones adicionales.
 repository: https://github.com/danielquisbert/base_map_osm_google
-version: 0.0.3
+version: 0.0.4
 homepage: https://danielquisbert.github.io
 
 environment:

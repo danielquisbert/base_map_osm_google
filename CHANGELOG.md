@@ -1,3 +1,7 @@
+## 0.0.4
+
+Adición de capturas del resultado final
+
 ## 0.0.3
 
 - Adición repositorio
